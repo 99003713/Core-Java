@@ -94,7 +94,7 @@ class FourWheeler extends Vehicle
 
 
 
-public class activity {
+public class Main {
 
 	public static void main(String args[])
 	{
