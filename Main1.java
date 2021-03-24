@@ -1,4 +1,4 @@
-package List;
+package com.ltts;
 import java.util.Scanner;
 
 class Vehicle
@@ -94,7 +94,7 @@ class FourWheeler extends Vehicle
 
 
 
-public class Main {
+public class Main1 {
 
 	public static void main(String args[])
 	{
