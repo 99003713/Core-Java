@@ -21,7 +21,6 @@ return "Employee [name=" + name + ", salary=" + salary + "] ";
 public int compareTo(Employee obj) {
 if(this.salary > obj.salary) return -1;
 else if(this.salary < obj.salary) return 1;
-//return 0;
 return this.name.compareTo(obj.name);
 
 }
